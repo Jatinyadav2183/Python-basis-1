@@ -1,2 +1,2 @@
-# Python-basis-1
+# Python
 Basic of python -> Loops, conditions, Operators
